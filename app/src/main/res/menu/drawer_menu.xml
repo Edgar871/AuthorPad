@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item
+        android:id="@+id/drawer_home"
+        android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24"
+        />
+
+    <item
+        android:id="@+id/drawer_story"
+        android:title="My Story"
+        android:icon="@drawable/ic_baseline_account_box_24"
+        />
+
+    <item
+        android:id="@+id/drawer_feedback"
+        android:title="Feedback"
+        android:icon="@drawable/ic_baseline_feedback_24"
+        />
+
+    <item
+        android:icon="@drawable/ic_baseline_power_settings_new_24"
+        android:id="@+id/drawer_logout"
+        android:title="logout"
+        />
+
+</menu>
